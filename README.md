@@ -89,12 +89,3 @@ Proje hakkında sorularınız, geri bildirimleriniz veya katkı sağlamak isters
 ---
 
 KamSpace, hayatınızı daha düzenli hale getirebilmek için sürekli geliştirilen ve topluluk tarafından şekillendirilen bir projedir. Katkılarınız, fikirleriniz ve geri bildirimleriniz bizim için çok değerli!
-```
-
-### Açıklamalar:
-- **Proje Adı**: KamSpace olarak belirttim.
-- **Özellikler**: KamSpace’in sağladığı özellikler.
-- **Teknolojiler**: Kullanacağınız teknoloji yığını.
-- **Kurulum ve Kullanım**: Adım adım nasıl kurulacağı ve çalıştırılacağı.
-- **Katkı**: Katkı sağlamak isteyenler için rehber.
-- **İletişim ve License**: İletişim bilgileri ve lisans.
